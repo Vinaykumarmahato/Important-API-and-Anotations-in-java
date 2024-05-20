@@ -1,5 +1,5 @@
 // import java.util.Date;
-public class Solution1 {
+public class NormalDateSolution1 {
 
     public static void main(String[] args) {
 
