@@ -1,6 +1,7 @@
 /**
  * Jab hume ek set of values chahiye jo constant rahenge, tab hum Enum concept ka use kar sakte hain.
  * 
+ 
  * Enum ko class ke andar bhi likh sakte hain aur class ke bahar bhi likh sakte hain.
  * 
  * Enum ka object nahi bana sakte hain.
