@@ -2,7 +2,7 @@ import java.time.*;
 public class JodaTimePackageAPISolution1 {
     
     public static void main(String[] args) {
-        
+
         LocalDate date=LocalDate.now();
         System.out.println("The Date is Below");
         System.out.println("Date: "+date);
